@@ -1,0 +1,15 @@
+{
+  "name": "flagship",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./out/index.js"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.117",
+    "lodash": "^4.17.11",
+    "reflect-metadata": "^0.1.12",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.3"
+  }
+}
